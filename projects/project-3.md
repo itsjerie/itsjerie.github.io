@@ -19,9 +19,9 @@ In Summer 2020, I worked on droplet generation which will help diagnose diseases
 
 As the Computer Engineering major in the team, I was in charge of preparing the dataset, training the network, and analyzing the data for both embryones and droplet datasets. I mostly worked with MATLAB to prepare my dataset which requires me to trace out each embryo/droplet from a frame in a video, which usually requires 1000+ frames to be used in training the network.
 
-<img class="ui medium right floated image" src="../images/nhsemp_embryo.gif">
+<img class="ui medium image" src="../images/nhsemp_embryo.gif">
 
-<img class="ui medium right floated image" src="../images/nhsemp_table.png">
+<img class="ui medium image" src="../images/nhsemp_table.png">
 
 This project was my first research project which allows me to team up with other students from different disciplines to collaborate our ideas from our perspectives. It was quite challenging working through Zoom, but it worked out well as we also had proper guidance from our TA and advisor. 
 
