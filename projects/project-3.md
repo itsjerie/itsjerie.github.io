@@ -5,57 +5,26 @@ image: images/cotton-square.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2022-01-19
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - MATLAB
+  - C
+  - Machine Learning
+summary: I worked on droplet generation which will help diagnosis diseases at an earlier stage.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In Summer 2020, I worked on droplet generation which will help diagnose diseases at an earlier stage. Analyzing and training networks to recognize droplets will work towards the goal of computers being able to analyze data on their own to find diseased cells. This research project was under Dr. Aaron Ohta's [Microdevices & Microfluidics Lab](https://sites.google.com/a/hawaii.edu/uh-mnm-lab/members) for the Native Hawaiian Science & Engineering Mentorship Program ([NHSEMP](https://sites.google.com/a/hawaii.edu/nhsemp/home?authuser=0)) [Hawaii PEEC II: Manoa Design Clinic](https://sites.google.com/a/hawaii.edu/nhsemp/what-we-do/summer-programs/m%C4%81noa-design-clinic?authuser=0).
 
-To give you a flavor of the game, here is an excerpt from one run:
+As the Computer Engineering major in the team, I was in charge of preparing the dataset, training the network, and analyzing the data for both embryones and droplet datasets. I mostly worked with MATLAB to prepare my dataset which requires me to trace out each embryo/droplet from a frame in a video, which usually requires 1000+ frames to be used in training the network.
 
-<hr>
+<img class="ui medium right floated image" src="../images/nhsemp_embryo.gif">
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<img class="ui medium right floated image" src="../images/nhsemp_table.png">
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+This project was my first research project which allows me to team up with other students from different disciplines to collaborate our ideas from our perspectives. It was quite challenging working through Zoom, but it worked out well as we also had proper guidance from our TA and advisor. 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Here's the link to our symposium video: [PEEC Manoa - Milla & Siu](https://sites.google.com/hawaii.edu/2020peeciisymposium/uh-m%C4%81noa/milla-siu)
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
