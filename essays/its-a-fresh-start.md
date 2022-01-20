@@ -9,7 +9,6 @@ labels:
   - Learning
   - Lifestyle
 ---
-<div style="overflow: auto; background-color: white;">
   
 <img class="ui image" src="../images/beach.jpg">
 
@@ -25,6 +24,3 @@ Since we are in our first two weeks of this Spring semester, we started working 
 
 For this semester, we are encouraged to practice athletic software engineering, which I think makes sense and is already gradually helping me improve my working habits. However, I will be honest that I am already struggling with it for the first 2 weeks of this semester. I am still struggling in changing my study habits but since I am not the only one trying this new style of learning, it does give me some push to just do it. The practice workout of the day, aka WODs, that we have weekly is also very helpful in understanding since it helps us practice what we just learned within through the modules we read. Though I do find time-pressured activities very stressful and it makes my anxiety for this class worse, I understand the purpose of it and hope that I will get used to it since we are doing this every week. 
 
-
-
-</div>
