@@ -14,7 +14,7 @@ summary: Created a sanitizing robot prototype.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/sanitarybot.png">
+  <img class="ui image" src="../images/sanitarybot.jpg">
 </div>
 
 ## About Sanibot
@@ -30,7 +30,7 @@ Here's the circuit board and servo:
 The goal was met as the prototype SANIBOT was able to maneuver and spray at different angles. Despite that fact, due to the pandemic and COVID-19 shipping issues, the supplies needed for this project did not come in time and most materials were improvised. The base was unstable and did not turn properly. The cardboards were cut unevenly, which resulted in instability when used since the spray bottle and its servo for the spraying mechanism weigh more than this base. The spraying part also had several issues as there were only a few long twist wires found that could pull the trigger properly. Thus the servo slants as it pulls the trigger and can sometimes not pull the trigger properly. White duct tape was used to secure the servo at the back of the spray instead, rather than fastening it into the bottle because the screw-fastened inside might rust.
 
 
-<img class="ui image" src="../images/sanibot_4.jpg">
+<img class="ui image" src="../images/sanibot_4.png">
 
 ## Recap
 
