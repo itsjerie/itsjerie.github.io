@@ -13,9 +13,7 @@ labels:
 summary: Created a sanitizing robot prototype.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/sanitarybot.jpg">
-</div>
+<img class="ui medium middle image" src="../images/sanitarybot.jpg">
 
 ## About Sanibot
 
