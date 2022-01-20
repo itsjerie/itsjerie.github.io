@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rose.png
+image: images/rose_logo.jpg
 title: VIP Team RoSE
 permalink: projects/rose
 # All dates must be YYYY-MM-DD format!
