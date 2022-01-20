@@ -10,7 +10,8 @@ labels:
   - Lifestyle
 ---
 
-<img class="ui large center floated image" src="../images/beach.jpg">
+<img class="ui large centered floated image" src="../images/beach.jpg">
+<img class="ui large middle floated image" src="../images/beach.jpg">
 *(c) Jeraldine Milla*
 
 Since it's 2022, it's going to be a fresh start for me. This means I will start a new lifestyle, new mindset, and will try to learn new things. It will be challenging but I think I can do it, I just need the right motivation, just like for my ICS314 class which I have mixed feelings about. It is a class that will help in developing my programming skills as a software engineer, which will also teach me new skills not only in programming but also in life! For this Spring semester, I am looking forward to learning new programming languages and getting more programming experiences through class activities which I definitely think is going to be tough but I think it will be fun! (I hope)
