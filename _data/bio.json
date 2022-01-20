@@ -49,7 +49,7 @@
       ]
     }
   ],
-/*  "skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -73,7 +73,7 @@
         "TI LaunchPad"
       ]
     }
-  ], */
+  ], 
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -86,7 +86,7 @@
       ]
     }
   ],
-/*  "work": [
+  "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -158,5 +158,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]*/
+  ]
 }
