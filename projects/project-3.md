@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/nhsemp_embryo.png
-title: Cotton
-permalink: projects/droplet
+title: Image Analysis Using Deep Learning
+permalink: projects/image-analysis
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
