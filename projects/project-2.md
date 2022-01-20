@@ -16,7 +16,7 @@ labels:
 summary: An undergraduate team that aims to conquer and explore the mars environment for future generations.
 ---
 <div class="ui small rounded images">
-    <img class="ui medium middle floated rounded image" src="../images/rose_logo.jpg">
+    <img class="ui medium centered rounded image" src="../images/rose_logo.jpg">
 </div>
 ## About RoSE
 
@@ -26,7 +26,7 @@ VIP Team RoSE is a research project by a team of undergraduate students from mul
 
 *The autonomous challenge's mission is to autonomously navigate and traverse obstacles, and scan AR tags.* 
 
-<img class="ui medium image" src="../images/auto_1.png">
+<img class="ui image" src="../images/auto_1.png">
 
 One of the subsystems in RoSE that focuses on the Autonomous challenge is called the Autonomy Subsystem, which I am part of. I am one of the programmers of this team that implements software components to meet interface requirements. 
 
@@ -56,7 +56,7 @@ Position GPSAdapter::getPositionAtGPSPosition(GPSPosition p){
 
 I also was able to work on creating a prototype computer vision that detects Aruco Tags using OpenCV. Here are some pictures of the prototype I made: 
 
-<img class="ui medium image" src="../images/aruco_1.png">
+<img class="ui image" src="../images/aruco_1.png">
 
 ## Conclusion
 
