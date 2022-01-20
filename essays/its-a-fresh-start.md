@@ -9,7 +9,8 @@ labels:
   - Learning
   - Lifestyle
 ---
-
+<div style="overflow: auto; background-color: white;">
+  
 <img class="ui image" src="../images/beach.jpg">
 
 *(c) Jeraldine Milla*
@@ -26,4 +27,4 @@ For this semester, we are encouraged to practice athletic software engineering, 
 
 
 
-
+</div>
