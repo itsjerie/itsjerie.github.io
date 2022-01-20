@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jeraldine Milla",
-    "label": "Student",
+    "label": "Computer Engineering Student",
     "picture": "https://itsjerie.github.io/images/jeraldine_milla.jpg",
     "email": "millaje@hawaii.edu",
     "phone": "808-219-3428",
@@ -71,6 +71,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
@@ -148,6 +149,14 @@
       "highlights": [
         "Assist in setting up and organizing the event"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
