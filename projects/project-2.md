@@ -16,7 +16,7 @@ labels:
 summary: An undergraduate team that aims to conquer and explore the mars environment for future generations.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/rose_logo.JPEG">
+<img class="ui medium right floated rounded image" src="../images/rose_logo.jpg">
 
 ## About RoSE
 
