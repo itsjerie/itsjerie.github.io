@@ -15,9 +15,9 @@ labels:
   - Python
 summary: An undergraduate team that aims to conquer and explore the mars environment for future generations.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/rose_logo.jpg">
-
+<div class="ui small rounded images">
+    <img class="ui medium right floated rounded image" src="../images/rose_logo.jpg">
+</div>
 ## About RoSE
 
 VIP Team RoSE is a research project by a team of undergraduate students from multiple disciplines from engineering, business, computer science, biology, and astrogeology that will compete in [The Mars Society's University Rover Challenge (URC)](https://urc.marssociety.org/home). The team's mission is to develop a remotely operated rover that will simulate a Mars rover space exploration mission. There will be four different mission categories in URC: (1) a science mission in which the rover will investigate sample sites for extinct and extant life, (2) a delivery mission to deliver a variety of objects to astronauts in the field across rugged terrain, (3) an equipment servicing mission to perform dexterous operations on a mock lander using a robotic arm, and (4) an autonomous mission to autonomously travel to a series of locations.
