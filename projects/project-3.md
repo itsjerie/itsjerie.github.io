@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/nhsemp_embryo.png
 title: Cotton
-permalink: projects/cotton
+permalink: projects/droplet
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: I worked on droplet generation which will help diagnosis diseases at an earlier stage.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/nhsemp_embryo.png">
 
 In Summer 2020, I worked on droplet generation which will help diagnose diseases at an earlier stage. Analyzing and training networks to recognize droplets will work towards the goal of computers being able to analyze data on their own to find diseased cells. This research project was under Dr. Aaron Ohta's [Microdevices & Microfluidics Lab](https://sites.google.com/a/hawaii.edu/uh-mnm-lab/members) for the Native Hawaiian Science & Engineering Mentorship Program ([NHSEMP](https://sites.google.com/a/hawaii.edu/nhsemp/home?authuser=0)) [Hawaii PEEC II: Manoa Design Clinic](https://sites.google.com/a/hawaii.edu/nhsemp/what-we-do/summer-programs/m%C4%81noa-design-clinic?authuser=0).
 
