@@ -18,8 +18,8 @@ body {
 
 // Customize the menubar color
 .ui.menu {
-  background: $background-start;
-  //background-color: lightskyblue;
+  //background: $background-start;
+  background-color:  white;
 }
 
 // Customize the home page icon colors
@@ -28,3 +28,10 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
+.ui.basic.label {
+  background-color:  white;
+}
+
+.ui.attached.bottom.button {
+  color: white;
+}
