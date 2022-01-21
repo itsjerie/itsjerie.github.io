@@ -5,7 +5,7 @@ image: images/sanibot_4.png
 title: Sanibot
 permalink: projects/sanibot
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-16
+date: 2020-12-10
 labels:
   - Robotics
   - Arduino
