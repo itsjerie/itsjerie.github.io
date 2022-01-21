@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
   
-<img class="ui image" src="../images/beach.jpg">
+<img class="ui image" src="../images/money.jpg">
 
 ## My driving force is… money!
 
@@ -25,6 +25,8 @@ Since I went to that school that allowed, not only boys, but also girls, to crea
 Little by little, I got introduced to Java, JavaScript, C, C++, and Python in highschool and in college. The fun I had when I was in 7th grade helped me choose to stick with engineering and now I want to lean towards robotics. But since I do have more software experience, I get to work on more programming which I extremely think needs more improvement.
 
 ## Robots, Projects, Expectations
+
+<img class="ui image" src="../images/bot1.jpg">
 
 I am quite fascinated with robotics and how their minds work (or more like how to program their minds). I want to work on more projects that help me learn machine learning, deep learning, artificial intelligence, and computer vision. That is why I am quite lucky to be part of my current rover team, VIP Team RoSE, which is a research project that has a mission to develop a remotely operated rover that will simulate a Mars rover space exploration mission. I’ve been learning how to work with ROS, OpenCV, and Ubuntu, and I also got the chance to work with SolidWorks which I never thought I would be able to use as a computer engineering student.
 
