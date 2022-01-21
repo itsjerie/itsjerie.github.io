@@ -5,11 +5,13 @@ image: images/nhsemp_embryo.png
 title: Image Analysis Using Deep Learning
 permalink: projects/image-analysis
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-19
+date: 2020-06-08
 labels:
   - MATLAB
   - C
   - Machine Learning
+  - Deep Learning
+  - TeamViewer
 summary: I worked on droplet generation which will help diagnosis diseases at an earlier stage.
 ---
 
