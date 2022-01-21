@@ -8,11 +8,13 @@ permalink: projects/rose
 date: 2021-05-31
 labels:
   - Robotics
-  - Aerospace
   - Space Exploration
   - GitHub
   - C++
   - Python
+  - ROS
+  - OpenCV
+  - CLion
 summary: An undergraduate team that aims to conquer and explore the mars environment for future generations.
 ---
 <div class="ui small rounded images">
