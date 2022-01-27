@@ -8,7 +8,7 @@
     "website": "https://itsjerie.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
-      "address": "2064 Clement Street",
+      "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -153,9 +153,21 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "National Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority Participation (NSF B2B STAMP) Awardee",
+      "date": "2020-07-13",
+      "awarder": "Bridges to Baccalaureate STAMP Grant PI",
+      "summary": ""
+    },
+    {
+      "title": "National Science Foundation S-STEM Grant Awardee",
+      "date": "2020-09-27",
+      "awarder": "National Science Foundation S-STEM Grant",
+      "summary": ""
+    },
+    {
+      "title": "AFCEA Hawaii General Scholarship Award",
+      "date": "2020-12-28",
+      "awarder": "AFCEA Hawaii Educational Foundation",
       "summary": ""
     }
   ],
