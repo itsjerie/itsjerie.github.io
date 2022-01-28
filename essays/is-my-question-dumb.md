@@ -11,7 +11,7 @@ labels:
   - Questions
 ---
 
-## Is my question dumb?
+# Is my question dumb?
 
 Others say, there is no such thing as a “*dumb*” question, so does that mean all questions are “*smart*”, or are there even any *smart* questions at all?
 
@@ -19,7 +19,7 @@ I always struggle asking questions because in general, it’s hard… to ask que
  
 We are living in a century where almost everything is easy to access and search engines are a thing that makes it easier for us to find our answers online. However, we do still encounter difficulties in finding answers to our curiosity or problems in life or even for work even if almost everything is on the internet. As a Computer Engineering student taking programming classes, I encounter tons of problems with my work. That is why I rely on search engines to find answers or solutions that could help me solve my problem, but I have never asked a question online like in StackOverflow because I might get bashed or banned if they think my questions are “*dumb*.”
 
-# What to and How to ask
+## What to and How to ask
 
 Normally when we have questions, we try to find the answers or solutions by checking our surroundings, thinking for a solution, and looking for FAQs. This also applies to asking questions online, especially in forums like [StackOverflow](https://stackoverflow.com/). Before asking our questions, we have to try to solve them ourselves, find the answers by searching online, looking at tutorials, and checking existing similar questions that could help in our problem. However, there will be times when we really can’t find a way to solve our problems. Thus, that’s the time we can try asking forums like StackOverflow for help. 
 
