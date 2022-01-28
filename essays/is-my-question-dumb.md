@@ -11,7 +11,7 @@ labels:
   - Questions
 ---
 
-# Is my question dumb?
+## Dumb vs Smart Questions
 
 Others say, there is no such thing as a “*dumb*” question, so does that mean all questions are “*smart*”, or are there even any *smart* questions at all?
 
