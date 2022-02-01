@@ -13,7 +13,7 @@ labels:
 
 ## Dumb vs Smart Questions
 
-Others say, there is no such thing as a “*dumb*” question, so does that mean all questions are “*smart*”, or are there even any *smart* questions at all?
+Others say, there is no such thing as a *dumb* question, so does that mean all questions are “*smart*”, or are there even any *smart* questions at all?
 
 I always struggle asking questions because in general, it’s hard… to ask questions. Especially in a room full of “*smart*” people that makes one hesitant to ask a question without overthinking that the people around them will judge them and think that their question is dumb. 
  
