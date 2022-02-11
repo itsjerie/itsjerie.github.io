@@ -10,6 +10,8 @@ labels:
   - Coding Standards
 ---
 
+<img class="ui image" src="../images/unorganize.jpg">
+
 ## More than just readability
 How do you code? — do you have your own formatting style like how you want your essays to look or your notes written?
   
@@ -19,11 +21,18 @@ How do you code? — do you have your own formatting style like how you want you
   return "I want to" +cry;}
   ```
   
-DISTURBING!! However, if it gets really busy, I also end up writing my code that way.
+*DISTURBING!! However, if it gets really busy, I also end up writing my code that way.*
 
 Personally, I like having color coded notes to keep organized, even though I barely could do it since I’m way too busy figuring out how to do it rather than making it happen. Same thing with coding. I like seeing my code indented and commented so I can keep track of my code and I understand what it is. Fortunately, there are IDE’s or softwares like ESLint that would automatically format your code for you.
   
 But why do we prefer having our code or even our notes to be “organized”? 
+
+  ```ruby
+  let i = 0;
+  if (i == fail){
+      return "I want to" + cry;
+  }
+  ```
 
 I think it is more than just for the sake of our own readability but also helps in practicing a standard that will help everyone understand what we did. This will keep our code strong and readable. Same goes for our notes which can help us understand the materials we wrote.
 
