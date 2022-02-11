@@ -13,9 +13,10 @@ labels:
 ## More than just readability
 How do you code? — do you have your own formatting style like how you want your essays to look or your notes written?
   
-   ```
+  ```ruby
+  let i=0;
   if(i==fail){
-  i==cry;}
+  return "I want to" +cry;}
   ```
   
 DISTURBING!! However, if it gets really busy, I also end up writing my code that way.
