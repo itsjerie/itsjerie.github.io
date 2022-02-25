@@ -25,10 +25,10 @@ It is my first time using such a framework and it's quite interesting to use. At
 If you check out the CSS code for Figure A, you can tell it's basic styling. Meanwhile, Figure B, which has a modern vibe, uses Semantic UI.
 
 <img class="ui center image" src="../images/browserhistory3.png" alt="Browser History with no Semantic UI">
-<p align="center"><strong><em>Figure A: Browser History with no Semantic UI</em></strong></p><sup><a href="https://courses.ics.hawaii.edu/ics314s22/morea/ui-basics/experience-browserhistory3.html">1</a></sup>
+<p align="center"><strong><em>Figure A: Browser History with no Semantic UI</em></strong><sup><a href="https://courses.ics.hawaii.edu/ics314s22/morea/ui-basics/experience-browserhistory3.html">1</a></sup></p>
 
 <img class="ui center image" src="../images/browserhistorySemantic.png" alt="Browser History with Semantic UI">
-<p align="center"><strong><em>Figure B: Browser History with Semantic UI</em></strong></p><sup><a href="https://courses.ics.hawaii.edu/ics314s22/morea/ui-frameworks/experience-browserhistory-semantic.html">2</a></sup>
+<p align="center"><strong><em>Figure B: Browser History with Semantic UI</em></strong><sup><a href="https://courses.ics.hawaii.edu/ics314s22/morea/ui-frameworks/experience-browserhistory-semantic.html">2</a></sup></p>
 
 ## Behind the glam
 
