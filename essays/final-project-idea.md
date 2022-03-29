@@ -10,7 +10,7 @@ labels:
 
 # Man O’ Munchies
 
-In collaboration with Gavin Peng, Tyler Baguio, Hyuma Tsuchiya, Jeraldine Milla
+*In collaboration with Gavin Peng, Tyler Baguio, Hyuma Tsuchiya, Jeraldine Milla*
 
 ## Overview
 
