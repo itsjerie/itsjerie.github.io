@@ -35,7 +35,8 @@ Some possible mockup pages include:
 - Admin goes to landing page, logs in, go to home page, edits the all pages and monitors accounts
 - Visitors go to landing page and scroll through vendors and public posts
 
-##Beyond The Basics
+## Beyond The Basics
+
 After implementing the basic functionality, here are ideas for more advanced features:
 - Support local businesses on campus
 - Help students time management 
