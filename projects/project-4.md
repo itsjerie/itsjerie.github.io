@@ -16,6 +16,9 @@ summary: Manoa Eats is a web application that will allow students and staff acce
 
 <img class="ui image" src="/images/manoa-eats.png">
 
+
+*[manoa-eats.github.io](https://manoa-eats.github.io) is maintained by [manoa-eats](https://github.com/manoa-eats/manoa-eats)*
+
 # Overview
 
 Not many students know about all of our fine dish eateries on the UH Manoa campus. In addition, some students who want to try new restaurants may not get a chance to because they may have time conflicts with their schedule leaving some restaurants having either too many students in line or not enough students.
@@ -26,9 +29,8 @@ Manoa Eats is a web application that will allow students and staff access to the
 
 This website aims to give access to hardworking students to nourish their brains with UH’s nutritious food located all around the campus. Students will be able to upload their schedules along with their course locations, and our website will estimate the best restaurant locations to stop at on their path to their next class.
 
-*this photo shows the landing page of Manoa Eats*
-
 <img class="ui image" src="/images/landing-page.png">
+*~this photo shows the landing page of Manoa Eats*
 
 # Manoa Eats Staff
 
@@ -43,10 +45,7 @@ Throughout the project, our team had to collaborate in-person during class days 
 
 If I were to talk about what I learned from this project is that communication. planning, and organization are very important aspects in accomplishing this project. Communication within the team is very essential especially when we all have different ideas and we wanted to excel in this class. Sharing our thoughts and opinion to the team made our work flow smoother. Another thing that made our work smoother was organizing and planning our tasks. The *kanban* board tremendously helped us to keep on track on what we should be working on and having someone delegated to work on specific tasks makes our team work efficiently with the time we have, though most of us were not familiar with this task organizer.
 
-*the photo below shows the restairants information, menu, and review which I was in charged of creating the template, and inputting all the Menu and restaurants data*
-
 <img class="ui image" src="../images/restaurant-page.png">
-
-# [manoa-eats.github.io](https://manoa-eats.github.io) is maintained by [manoa-eats](https://github.com/manoa-eats/manoa-eats)
+*~the photo below shows the restairants information, menu, and review which I was in charged of creating the template, and inputting all the Menu and restaurants data~*
 
 
