@@ -17,7 +17,7 @@ summary: Manoa Eats is a web application that will allow students and staff acce
 <img class="ui image" src="/images/manoa-eats.png">
 
 
-*[manoa-eats.github.io](https://manoa-eats.github.io) is maintained by [manoa-eats](https://github.com/manoa-eats/manoa-eats)*
+*Checkout our website at [manoa-eats.github.io](https://manoa-eats.github.io) or at our deployed website:[manoa-eats](https://manoa-eats.xyz/#/)*
 
 # Overview
 
@@ -30,7 +30,7 @@ Manoa Eats is a web application that will allow students and staff access to the
 This website aims to give access to hardworking students to nourish their brains with UH’s nutritious food located all around the campus. Students will be able to upload their schedules along with their course locations, and our website will estimate the best restaurant locations to stop at on their path to their next class.
 
 <img class="ui image" src="/images/landing-page.png">
-*~this photo shows the landing page of Manoa Eats*
+*~this photo shows the landing page of Manoa Eats~*
 
 # Manoa Eats Staff
 
@@ -40,6 +40,14 @@ Manoa Eats is designed, implemented, and maintained by
 # Reflection
 
 As the team's project manager, I helped the team get our tasks organized and kept our team on track with the deadlines. This task challenged my organization skills and my leadership skills. Giving my memebers a safe space to be open with their ideas and opinions and help moderate discussion, is one of the tasks that I had to work on for this team.
+
+For my contribution for this project, I worked on several parts:
+  - created the Logo
+  - helped in the aesthetics for the website
+  - added the menu data
+  - added the restaurant/vendor data
+  - created the view restaurant template for its photo, name, description, open & closing hours, location, menu, and review
+  - and more in creating the github organization, managing our project boards, and keeping the team on track of the deadlines.
 
 Throughout the project, our team had to collaborate in-person during class days and remotely for most of the time. It was challenging to describe our thought process when its only through messaging, but good thing screensharing was invented and that we could try to desribe each other's ideas virtually. 
 
