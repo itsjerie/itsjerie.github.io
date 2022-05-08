@@ -34,22 +34,27 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "robotics",
+      "name": "Robotics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Computer Vision",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
