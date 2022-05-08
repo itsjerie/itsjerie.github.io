@@ -11,6 +11,8 @@ labels:
   - Front-End
   - Database
   - Web development
+  - MongoDB
+  - GitHub
 summary: Manoa Eats is a web application that will allow students and staff access to the different eateries information on campus.
 ---
 
@@ -32,12 +34,12 @@ This website aims to give access to hardworking students to nourish their brains
 <img class="ui image" src="/images/landing-page.png">
 *~this photo shows the landing page of Manoa Eats~*
 
-# Manoa Eats Staff
+# Meet the Manoa Eats Staff
 
 Manoa Eats is designed, implemented, and maintained by
-[Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), [Gavin Peng](https://devgav.github.io).
+[Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), and [Gavin Peng](https://devgav.github.io).
 
-# Reflection
+# My Contributions
 
 As the team's project manager, I helped the team get our tasks organized and kept our team on track with the deadlines. This task challenged my organization skills and my leadership skills. Giving my memebers a safe space to be open with their ideas and opinions and help moderate discussion, is one of the tasks that I had to work on for this team.
 
@@ -49,11 +51,13 @@ For my contribution for this project, I worked on several parts:
   - created the view restaurant template for its photo, name, description, open & closing hours, location, menu, and review
   - and more in creating the github organization, managing our project boards, and keeping the team on track of the deadlines.
 
+# Reflection
+
 Throughout the project, our team had to collaborate in-person during class days and remotely for most of the time. It was challenging to describe our thought process when its only through messaging, but good thing screensharing was invented and that we could try to desribe each other's ideas virtually. 
 
 If I were to talk about what I learned from this project is that communication. planning, and organization are very important aspects in accomplishing this project. Communication within the team is very essential especially when we all have different ideas and we wanted to excel in this class. Sharing our thoughts and opinion to the team made our work flow smoother. Another thing that made our work smoother was organizing and planning our tasks. The *kanban* board tremendously helped us to keep on track on what we should be working on and having someone delegated to work on specific tasks makes our team work efficiently with the time we have, though most of us were not familiar with this task organizer.
 
 <img class="ui image" src="../images/restaurant-page.png">
-*~the photo below shows the restairants information, menu, and review which I was in charged of creating the template, and inputting all the Menu and restaurants data~*
+*~the photo shows the restaurant's information, menu, and review which I was in charged of creating the template, and inputting all the menu and restaurant data~*
 
 
