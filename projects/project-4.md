@@ -21,7 +21,7 @@ summary: Manoa Eats is a web application that will allow students and staff acce
 
 *Checkout our website at [manoa-eats.github.io](https://manoa-eats.github.io) or at our deployed website:[manoa-eats](https://manoa-eats.xyz/#/)*
 
-# Overview
+## Overview
 
 Not many students know about all of our fine dish eateries on the UH Manoa campus. In addition, some students who want to try new restaurants may not get a chance to because they may have time conflicts with their schedule leaving some restaurants having either too many students in line or not enough students.
 
@@ -34,12 +34,12 @@ This website aims to give access to hardworking students to nourish their brains
 <img class="ui image" src="/images/landing-page.png">
 *~this photo shows the landing page of Manoa Eats~*
 
-# Meet the Manoa Eats Staff
+## Meet the Manoa Eats Staff
 
 Manoa Eats is designed, implemented, and maintained by
 [Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), and [Gavin Peng](https://devgav.github.io).
 
-# My Contributions
+## My Contributions
 
 As the team's project manager, I helped the team get our tasks organized and kept our team on track with the deadlines. This task challenged my organization skills and my leadership skills. Giving my memebers a safe space to be open with their ideas and opinions and help moderate discussion, is one of the tasks that I had to work on for this team.
 
@@ -51,7 +51,7 @@ For my contribution for this project, I worked on several parts:
   - created the view restaurant template for its photo, name, description, open & closing hours, location, menu, and review
   - and more in creating the github organization, managing our project boards, and keeping the team on track of the deadlines.
 
-# Reflection
+## Reflection
 
 Throughout the project, our team had to collaborate in-person during class days and remotely for most of the time. It was challenging to describe our thought process when its only through messaging, but good thing screensharing was invented and that we could try to desribe each other's ideas virtually. 
 
