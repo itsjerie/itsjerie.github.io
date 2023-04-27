@@ -69,7 +69,7 @@
         "Java",
         "Javascript",
         "Python",
-        "Tobotic Operating System (ROS)"
+        "Robotic Operating System (ROS)"
       ]
     },
     {
@@ -116,11 +116,22 @@
   ],
   "work": [
     {
+      "company": "Robotic Space Exploration (RoSE) Lab",
+      "position": "Robotics Research Assistant",
+      "website": "",
+      "startDate": "2022-06",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Developed a script that detected AprilTags on each frames"
+      ]
+    },
+    {
       "company": "KCC STEM Center",
       "position": "Social Media Manager",
       "website": "https://www.instagram.com/kccstem/",
       "startDate": "2021-05",
-      "endDate": "present",
+      "endDate": "2022-12",
       "summary": "",
       "highlights": [
         "Maintain, update, and oversees the KCC STEM's Instagram",
@@ -143,14 +154,15 @@
   "volunteer": [
     {
       "organization": "VIP Team RoSE",
-      "website": "",
-      "position": "Programmer (Autonomy), Social Media Expert",
+      "website": "https://www.teamrose.org/",
+      "position": "Programmer (Autonomy/GNC), Social Media Expert",
       "startDate": "2021",
       "endDate": "present",
-      "summary": "A member of the Autonomy substeam of the multidisciplinary team, VIP Team RoSE (Robotics Space Exploration) under the guidance of Dr. Frances Zhu.",
+      "summary": "A programmer and Computer Vision specialist of the Autonomy substeam of the multidisciplinary team, VIP Team RoSE (Robotics Space Exploration) under the guidance of Dr. Frances Zhu.",
       "highlights": [
         "Programming the waypoint detection using OpenCV and Robot Operating System (ROS) in detecting the ARUCO tags",
-        "Collaborating with 6 other members of the subteam"
+        "Collaborated with 6 other members of the Autonomy subteam",
+        "Working with 11 other members of the GNC subteam"
       ]
     },
     {
@@ -158,7 +170,7 @@
       "website": "",
       "position": "Student Volunteer, Room Facilitator",
       "startDate": "2020",
-      "endDate": "2021",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
         "Facilitates the student research presensentation"
