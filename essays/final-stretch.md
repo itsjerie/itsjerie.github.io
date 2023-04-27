@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Final Stretch"
-date: 2022-03-29
+date: 2023-04-26
 labels:
   - Software Engineering
   - Meteor
